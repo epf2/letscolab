@@ -8,3 +8,6 @@ print("bye!")
 
 for i in range(3):
     print(i)
+    print("hi!")
+
+df = df[1:100]
