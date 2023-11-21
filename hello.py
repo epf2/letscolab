@@ -11,3 +11,6 @@ for i in range(3):
     print("hi!")
 
 df = df[1:100]
+# I forgot:
+df = df.copy()
+
