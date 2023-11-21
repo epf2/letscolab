@@ -5,3 +5,5 @@ print("Hello World!")
 # Ed: Will fix this (always).
 
 print("bye!")
+
+df = df[1:100]
