@@ -2,7 +2,7 @@ print("Hello World!")
 
 # Add your comments plis
 
-# Ed: will fix this.
+# Ed: Will fix this (always).
 
 print("bye!")
 
