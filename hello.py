@@ -21,5 +21,5 @@ for j in range(2000):
 # We need a new funtion.
 
 def newf(a):
-    print("My new function.")
+    print("My new function")
     return 2*a
