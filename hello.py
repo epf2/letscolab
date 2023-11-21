@@ -19,3 +19,7 @@ for j in range(100):
     print(j)
 
 # We need a new funtion.
+
+def newf():
+    print("my new function")
+    return True
