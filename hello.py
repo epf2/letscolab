@@ -5,3 +5,6 @@ print("Hello World!")
 # Ed: will fix this.
 
 print("bye!")
+
+for i in range(3):
+    print(i)
